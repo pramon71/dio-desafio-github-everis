@@ -1,3 +1,0 @@
-Instalando o Visual Studio e SDK
-
-Aprenda o que você precisa instalar na sua máquina para dar seus primeiros passos em desenvolvimento dotnet, conheça o SDK da microsoft e o Visual Studio.
